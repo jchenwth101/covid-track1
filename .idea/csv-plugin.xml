@@ -24,6 +24,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/spyre-v1.4.0/pages/home.html">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/spyre-v1.4.0/pages/index.html">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
